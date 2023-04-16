@@ -1,6 +1,6 @@
 #!/bin/bash
 
-username=biqu
+username=manta
 shell_path=/etc/scripts
 
 #===================================#
@@ -39,7 +39,7 @@ unset filelist
 
 #-----------------
 # sudo usermod -a -G root $username         # 将biqu加入root用户组
-# sudo gpasswd -d biqu root     # 将biqu移出root用户组
+# sudo gpasswd -d manta root     # 将biqu移出root用户组
 
 # sudo chmod 777 /var/run/wpa_supplicant/wlan0
 

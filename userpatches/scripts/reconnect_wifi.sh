@@ -2,7 +2,7 @@
 
 cfg_file=/boot/system.cfg
 
-WIFI_CFG=/home/biqu/control/wifi/conf/netinfo.txt
+WIFI_CFG=/home/manta/control/wifi/conf/netinfo.txt
 log_file=/etc/scripts/wifi.log
 
 IFS=\"
